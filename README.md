@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2E9EF7&height=200&section=header&text=Krrishpana%20Karmacharya&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Aspirant%20%E2%80%A2%20Machine%20Learning%20Enthusiast%20%E2%80%A2%20Generative%20AI%20Explorer%20%E2%80%A2%20MLOps%20Learner%20%E2%80%A2%20Open%20to%20AI%2FML%20Internships&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2E9EF7&height=200&section=header&text=Krrishpana%20Karmacharya&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20and%20Data%20Science%20Aspirant%20%E2%80%A2%20Machine%20Learning%20Enthusiast%20%E2%80%A2%20Generative%20AI%20Explorer%20%E2%80%A2%20MLOps%20Learner%20%E2%80%A2%20Open%20to%20AI%2FML%20Internships&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <p align="center">
 <a href="#">

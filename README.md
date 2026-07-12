@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2E9EF7&height=200&section=header&text=Krrishpana%20Karmacharya&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Aspirant%20%E2%80%A2%20Machine%20Learning%20Enthusiast%20%E2%80%A2%20Generative%20AI%20Explorer%20%E2%80%A2%20MLOps%20Learner%20%E2%80%A2%20Open%20to%20AI%2FML%20Internships&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <p align="center">
 <a href="#">
@@ -51,8 +45,6 @@ currently_learning: Agentic AI
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <!-- Frontend -->
